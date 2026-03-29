@@ -95,8 +95,8 @@ I'm a junior AI Engineer based in **Cairo, Egypt**, with hands-on experience bui
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AHM215&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHM215&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=AHM215&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHM215&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%"/>
 </p>
 
 ---
