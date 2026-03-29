@@ -86,8 +86,7 @@
 
 <div align="center">
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AHM215&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=AHM215&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=AHM215&theme=tokyonight&hide_border=true)
 
 </div>
 
