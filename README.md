@@ -64,7 +64,6 @@
     <td align="center">
       <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
       <img src="https://img.shields.io/badge/Quantization_INT8/FP16-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
     </td>
   </tr>
 </table>
