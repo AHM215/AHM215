@@ -53,7 +53,6 @@
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white" />
       <img src="https://img.shields.io/badge/Qdrant-FF4B4B?style=for-the-badge&logoColor=white" />
       <img src="https://img.shields.io/badge/Chroma-FF6B35?style=for-the-badge&logoColor=white" />
     </td>
